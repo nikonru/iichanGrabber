@@ -16,7 +16,7 @@ file
 -d
 ```
 - Name wrapper, which will be added to the names of file, 
-for example if ```-w pic``` then the first image will 
+for example if I use ```-w pic``` then the first image will 
 be saved as ```pic[0].jpg```, by default it is empty string
 
 ```console
